@@ -2,8 +2,8 @@
 
 ## Introduction 
    Yandex is an interesting search engin : http://yandex.com  
-   Very basic libray to query it search API : http://xml.yandex.com/ 
-   It query Yandex and get the results URL of the first page 
+   Here is a very basic libray to query its search API : http://xml.yandex.com/  
+   It get the URL of the first page 
 
 ## Usage Exemple
 
