@@ -1,0 +1,25 @@
+{
+  "name": "yandex-xml-api",
+  "description": "Yandex API",
+  "version": "0.0.1",
+  "author": {
+    "name": "yoann assayag",
+    "email": "yoann.assayag@gmail.com"
+  },
+  "main": "./lib/yandex-xml-api",
+  "engines": {
+    "node": ">= 0.4.3"
+  },
+  "devDependencies": {
+    "request": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/***"
+  },
+  "dependencies": {
+	 "request" : "*",
+	 "xml2js" : "*"
+	},
+  "optionalDependencies": {}
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <yandexsearch version="1.0">
+ <request>
+<query>abksmjsflkoln</query>
+<page>0</page>
+<sortby order="descending" priority="no">rlv</sortby>
+<maxpassages />
+<groupings>
+<groupby attr="d" mode="deep" groups-on-page="10" docs-in-group="1" curcateg="-1" />
+</groupings>
+ </request>
+<response date="20130214T183115">
+<error code="15">Sorry, there are no results for this search</error>
+</response>
+ </yandexsearch>
