@@ -1,9 +1,11 @@
-==YANDEX XML API
+#YANDEX XML API
 
-== Introduction 
-	Very basic libray to query Yandex and get the URL of the first page
+## Introduction 
+   Yandex is an interesting search engin : http://yandex.com  
+   Here is a very basic libray to query its search API : http://xml.yandex.com/  
+   It get the URL of the first page 
 
-== Usage Exemple
+## Usage Exemple
 
 	`YandexSearch = require("yandex-xml-api")
 	yandex = new YandexSearch(userName, YandexKey)
